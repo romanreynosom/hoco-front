@@ -1,4 +1,6 @@
 .Index{
+    margin: 0;
+    padding: 0;
     background-color: rgb(236, 169, 125);
     display: flex;
     flex-wrap: wrap;
