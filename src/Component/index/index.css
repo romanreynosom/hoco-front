@@ -1,0 +1,11 @@
+.Index{
+    background-color: rgb(236, 169, 125);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.img{
+    height: 300px;
+    width: 300px;
+}
